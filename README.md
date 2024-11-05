@@ -1,6 +1,6 @@
 ![Full stack Web Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/337272166_3542898029316509_370266361041930162_n.png?stp=dst-png_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGL0DLjkMxn-tkPKMgEzzy5yBnLTxrZPzPIGctPGtk_M9sesQJRjb24BL5koCNEvsoyIuZ4e1h9CPiffmL7iq27&_nc_ohc=3uF4tvcSzQsAX-uNOsq&_nc_ht=scontent.fdac7-1.fna&oh=00_AfCh_RSS2rAMpxCzXRxCVvR4JkL1XaykRN_rPq_0skSb7Q&oe=641F50A7)
 
-### Hi there 👋, I'm MAhidujjaman Mahid
+### Hi there 👋, I'm Mahidujjaman Mahid
 #### Full stack Web Developer
 
 Hi there! I'm a full stack web developer with a passion for creating dynamic and engaging websites and applications. With several years of experience in the industry, I have honed my skills in front-end and back-end development using technologies like HTML, CSS, JavaScript, React, Astro, Express, Node.js, and more.
